@@ -1,0 +1,6 @@
+.env
+*b2-credentials*
+_b2-credentials*
+b2manager
+b2manager
+*.exe
